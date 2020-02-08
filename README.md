@@ -1,2 +1,2 @@
 # word-guess
-![Image](images/image.png)
+![](images/image.png)
